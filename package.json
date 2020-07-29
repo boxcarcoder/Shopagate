@@ -1,0 +1,11 @@
+{
+  "name": "shopagate",
+  "version": "1.0.0",
+  "description": "Buy, sell, and trade plants locally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brendan cheng",
+  "license": "ISC"
+}
